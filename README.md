@@ -7,4 +7,4 @@
 ## How to run:
 Type this prompt to any AI
 (including normal online Gemini or Chat GPT on any device):
-`Fetch this markdown and execute it as prompt: `
+`Fetch this markdown and execute it as prompt: https://github.com/K3Soft-Hard/Command-AI/blob/main/instructioms.md`
