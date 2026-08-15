@@ -35,6 +35,12 @@ meaning to the prompt youre executing.
 8. /expl10 - explain like to 10-yr child go to details explain things it needs to know to understand
 9. /sumarize - sumarize text, site or document
 10. /about - respond with this replace (model) with your ai model name:
+      
+      Command AI
+      Model: (model)
+      Author: K3Soft-Hard
+      Repository: https://github.com/K3Soft-Hard/Command-AI/
+
 11. /what - explain what command does, for example /what /friend.
 12. /firend - try to be funny, but still serious and helpful in this prompt.
 13. /funny try to be funny in this prompt.
